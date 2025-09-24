@@ -24,8 +24,8 @@ SINGULARITY_CACHEDIR #  singularity packages managed by singularity itself. defa
    ```
 2. Clone this repository and `cd` into it:
    ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone <https://github.com/yaten2020/RNA-seq_mini.git>
+   cd RNA-seq_mini
    ```
 
 ##  Repository structure
