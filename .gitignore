@@ -1,0 +1,18 @@
+# Nextflow runtime
+.nextflow/
+.nextflow.*
+work/
+
+# Logs
+*.nextflow.log*
+Notes.md
+
+# Pipeline outputs
+results/*
+output/*
+*.out
+*.err
+
+# OS/editor junk
+.DS_Store
+Thumbs.db

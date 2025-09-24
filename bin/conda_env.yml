@@ -1,0 +1,14 @@
+name: rna_seq_minimal
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - openjdk=22.0.1
+  - nextflow
+  - salmon
+  - fastqc=0.11
+  - multiqc
+  - nf-core
+  - graphviz
+  - fastp
